@@ -1,5 +1,5 @@
 # Documentacion
-Jose Antonio Vazquez Miranda
+JOSE ANTONIO VAZQUEZ MIRANDA
 13/11/1999
 IES Aller Ulloa
 22
